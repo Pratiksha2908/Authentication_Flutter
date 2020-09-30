@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "248157285089",
+    "firebase_url": "https://book-sell-f70b7.firebaseio.com",
+    "project_id": "book-sell-f70b7",
+    "storage_bucket": "book-sell-f70b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248157285089:android:14400b68ebc7e051cb25a0",
+        "android_client_info": {
+          "package_name": "com.pratu.book_sell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248157285089-0nr172u5265kvpoc03d6mvk3n0c727ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU-RQZeGMxI-stgY2UqaObfJQZakBQ4R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248157285089-0nr172u5265kvpoc03d6mvk3n0c727ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
