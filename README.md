@@ -1,4 +1,4 @@
-# 🔐 authentication app made by flutter
+# 🔐 Authentication Application made by Flutter
 
 A new Flutter application.
 
